@@ -1,5 +1,7 @@
 #title {
   background-color: #e0f6fc;
+  position: relative;
+  display: block;
   text-align: center;
 }
 
@@ -9,8 +11,8 @@
 }
 
 #header{
-
   padding: 15px;
+  text-align: center;
   font-family: monospace;
   display: inline-block;
 }
