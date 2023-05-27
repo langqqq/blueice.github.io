@@ -1,0 +1,17 @@
+#title {
+  background-color: #e0f6fc;
+
+}
+
+#icon{
+  vertical-align:middle;
+  mix-blend-mode: multiply;
+  display: inline-block;
+}
+
+#header{
+  text-align: center;
+  padding-bottom: 20px;
+  font-family: monospace;
+  display: inline-block;
+}
