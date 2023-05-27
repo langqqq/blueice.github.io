@@ -10,8 +10,8 @@
 }
 
 #header{
-  margin-left: 40px;
-  font-size: 33px;
+  margin-left: 2em;
+  font-size: 2em;
   font-family: monospace;
   display: inline-block;
 }
