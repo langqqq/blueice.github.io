@@ -4,7 +4,7 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 20px;
-  background-color: #94bdf0;
+  background-color: #b3d2f8;
   color: #fff;
 }
 
@@ -75,9 +75,16 @@ section ul li a:hover {
 
 /* CSS for the footer */
 footer {
-  background-color: #94bdf0;
+  background-color: #b3d2f8;
   padding: 20px;
   text-align: center;
   color: #fff;
   font-size: 14px;
+}
+
+/* CSS for the background image */
+body {
+  background-image: url('background-image.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
